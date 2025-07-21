@@ -34,5 +34,10 @@ GitHub: [AcapRisyaht](https://github.com/AcapRisyaht)
 
 ---
 
+📘 Dokumentasi Lore & Perancangan:
+👉 [Klik untuk buka Notion](https://aboard-carpet-a82.notion.site/Knight-Of-Spirit-Dev-Notebook-22f8f511a5618022bd0fc59428d2177b?source=copy_link)
+
+---
+
 ## 📜 License
 MIT License – see `LICENSE` file.
